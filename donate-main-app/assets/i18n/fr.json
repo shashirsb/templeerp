@@ -1,0 +1,105 @@
+{
+  "TITLE": "KABBALAMMA DEVASTHANA SERVICE_FR",
+  "SIDE_BAR": {
+    "HOME": "HOME_FR",
+    "DASHBOARD": "DASHBOARD_FR",
+    "REGISTRATION": "REGISTRATION_FR",
+    "DONATION": "DONATION_FR",
+    "HUNDI": "HUNDI_FR",
+    "SEVA": "SEVA_FR",
+    "DARSHAN": "DARSHAN_FR",
+    "MY_PROFILE": "MY PROFILE_FR",
+    "LOGOUT": "LOGOUT_FR"
+  },
+  "REGISTER": {
+    "HEADER": "Devasthanam Online Portal_FR",
+    "TITLE_ACCOUNT_DETAILS": "Account Details_FR",
+    "TITLE_PERSONAL_DETAILS": "Personal Details_FR",
+    "TITLE_POSTAL_ADDRESS": "Postal Address_FR"
+  },
+  "HUNDI": {
+    "HEADER": "ONLINE HUNDI_FR",
+    "TITLE": "Sree Temple Hundi_FR",
+    "SUB_TITLE": "Hundi Offering by pilgrims to Sree temple_FR"
+  },
+  "DARSHAN": {
+    "HEADER": "BOOK YOUR DARSHAN_FR",
+    "TITLE": "Sree Temple Darshan_FR",
+    "SUB_TITLE": "Choose the date you want to book_FR"
+  },
+  "SEVA": {
+    "HEADER": "BOOK YOUR SEVA_FR",
+    "TITLE": "Sree Temple Seva_FR",
+    "SUB_TITLE": "Choose the date you want to book_FR"
+  },
+  "DONATION": {
+    "HEADER": "ONLINE DONATION_FR"
+  },
+  "DASHBOARD": {
+    "HEADER": "MY DASHBOARD_FR",
+    "TITLE": "Transaction History_FR",
+    "DARSHAN": "DARSHAN_FR",
+    "SEVA": "SEVA_FR",
+    "HUNDI": "HUNDI_FR",
+    "DONATION": "DONATION_FR",
+    "TRANSACTION_ID": "TRANSACTION ID_FR",
+    "BOOKING_ID": "BOOKING ID_FR",
+    "BOOKING_DATE": "BOOKING DATE_FR",
+    "DARSHAN_FOR": "DARSHAN FOR_FR",
+    "DESCRIPTION": "DESCRIPTION_FR",
+    "DATE": "DATE_FR",
+    "ACTION": "ACTION_FR",
+    "PILGRIM":"Pilgrim_FR",
+    "AMOUNT":"Amount Rs._FR",
+    "OCCASION":"On occasion of_FR"
+  },
+  "MY_PROFILE": {
+    "HEADER": "MY PROFILE_FR",
+    "TITLE_ACCOUNT_DETAILS": "Account Details_FR",
+    "TITLE_PERSONAL_DETAILS": "Personal Details_FR",
+    "TITLE_POSTAL_ADDRESS": "Postal Address_FR"
+  },
+  "FORM": {
+    "LABEL": {
+      "CHOOSE_OCCATION": "Choose the occasion_FR",
+      "BEHALF_OF": "On behalf of_FR",
+      "AMOUNT": "Enter Amount (Rs.)_FR",
+      "SELECT_DARSHAN": "Select the seva from the list_FR",
+      "SELECT_SEVA": "Select the seva from the list_FR",
+      "DATE": "Date_FR",
+      "FROM_LIST_BELOW": "From list below_FR",
+      "TOTAL_PRICE": "Total Price_FR",
+      "NUMBER_OF_DEVOTEES": "Number of Devotees_FR",
+      "FIRST_NAME": "First Name_FR",
+      "LAST_NAME": "Last Name_FR",
+      "EMAIL": "Email_FR",
+      "GENDER": "Gender_FR",
+      "MOBILE": "Mobile_FR",
+      "PILGRIM_TYPE": "Pligrim Type_FR",
+      "ID_PROOF": "Select Photo ID Proof_FR",
+      "ID_PROOF_NUMBER": "Photo ID Number_FR",
+      "ADDRESS": "Address_FR",
+      "CITY": "City_FR",
+      "STATE": "State_FR",
+      "COUNTRY": "Country_FR",
+      "ZIP": "Zip_FR",
+      "POST": "Post_FR",
+      "PINCODE": "Pincode_FR",
+      "VERIFIED": "Verified_FR",
+      "TERMS": "I accept the terms and conditions_FR",
+      "ALREADY_ACCOUNT": "Already have an account?_FR",
+      "SIGNIN_HERE": "Signin here..._FR",
+      "REGISTER_FOR": "Register for_FR",
+      "RS":"Rs._FR"
+    },
+    "BUTTON": {
+      "SUBMIT": "Submit_FR",
+      "BOOK_SEVA": "Book Seva_FR",
+      "PAY_TO_HUNDI": "Pay to Hundi_FR",
+      "SEARCH_AVAILABLE_DATE": "Search Available Dates_FR",
+      "DONATE": "Donate_FR",
+      "UPDATE": "Update_FR",
+      "REGISTER": "Register_FR"
+    }
+  }
+}

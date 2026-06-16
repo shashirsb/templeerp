@@ -1,0 +1,136 @@
+{
+  "TITLE": "KABBALAMMA DEVASTHANA SERVICE",
+  "SIDE_BAR": {
+    "HOME": "HOME",
+    "DASHBOARD": "DASHBOARD",
+    "REGISTRATION": "REGISTRATION",
+    "DONATION": "DONATION",
+    "HUNDI": "HUNDI",
+    "SEVA": "SEVA",
+    "DARSHAN": "DARSHAN",
+    "MY_PROFILE": "MY PROFILE",
+    "LOGOUT": "LOGOUT"
+  },
+  "REGISTER": {
+    "HEADER": "Devasthanam Online Portal",
+    "TITLE_ACCOUNT_DETAILS": "Account Details",
+    "TITLE_PERSONAL_DETAILS": "Personal Details",
+    "TITLE_POSTAL_ADDRESS": "Postal Address"
+  },
+  "HUNDI": {
+    "HEADER": "ONLINE HUNDI",
+    "TITLE": "Sree Temple Hundi",
+    "SUB_TITLE": "Hundi Offering by pilgrims to Sree temple"
+  },
+  "DARSHAN": {
+    "HEADER": "BOOK YOUR DARSHAN",
+    "TITLE": "Sree Temple Darshan",
+    "SUB_TITLE": "Choose the date you want to book"
+  },
+  "SEVA": {
+    "HEADER": "BOOK YOUR SEVA",
+    "TITLE": "Sree Temple Seva",
+    "SUB_TITLE": "Choose the date you want to book"
+  },
+  "DONATION": {
+    "HEADER": "ONLINE DONATION"
+  },
+  "DASHBOARD": {
+    "HEADER": "MY DASHBOARD",
+    "TITLE": "Transaction History",
+    "DARSHAN": "DARSHAN",
+    "SEVA": "SEVA",
+    "HUNDI": "HUNDI",
+    "DONATION": "DONATION",
+    "TRANSACTION_ID": "TRANSACTION ID",
+    "BOOKING_ID": "BOOKING ID",
+    "BOOKING_DATE": "BOOKING DATE",
+    "DARSHAN_FOR": "DARSHAN FOR",
+    "DESCRIPTION": "DESCRIPTION",
+    "DATE": "DATE",
+    "ACTION": "ACTION",
+    "PILGRIM":"Pilgrim",
+    "AMOUNT":"Amount Rs.",
+    "OCCASION":"On occasion of"
+  },
+  "MY_PROFILE": {
+    "HEADER": "MY PROFILE",
+    "TITLE_ACCOUNT_DETAILS": "Account Details",
+    "TITLE_PERSONAL_DETAILS": "Personal Details",
+    "TITLE_POSTAL_ADDRESS": "Postal Address"
+  },
+  "HOME": {
+    "TITLE":"Welcome to the new portal of SKD is please to annouce a new portal for availing Services viz Special Entry Darshan, Seva, Hundi, Donation . The new portal aims to provide pilgrims with better user experience in availing the Services.",
+    "REGISTER_NOW":"Register now for",
+    "DARSHAN_ONLINE_PORTAL":"Devasthanam Online Portal",
+    "BOOK_DARSHAN_SEVA_ONLINE":"Book Seva Darshan Online",
+    "DONATE_TO_HUNDI_AND_TRUST":"Donate to Hundi & Trust",
+    "SEE_ALL_YOUR_PAYMENT_HISTORY":"See all your payment history",
+    "DOWNLOAD_YOUR_BOOKING":"Download your booking"
+  },
+  "FORM": {
+    "LABEL": {
+      "CHOOSE_OCCATION": "Choose the occasion",
+      "BEHALF_OF": "On behalf of",
+      "AMOUNT": "Enter Amount (Rs.)",
+      "SELECT_SEVA": "Select the seva from the list",
+      "DATE": "Date",
+      "FROM_LIST_BELOW": "From list below",
+      "TOTAL_PRICE": "Total Price",
+      "NUMBER_OF_DEVOTEES": "Number of Devotees",
+      "FIRST_NAME": "First Name",
+      "LAST_NAME": "Last Name",
+      "EMAIL": "Email",
+      "GENDER": "Gender",
+      "MOBILE": "Mobile",
+      "PILGRIM_TYPE": "Pligrim Type",
+      "ID_PROOF": "Select Photo ID Proof",
+      "ID_PROOF_NUMBER": "Photo ID Number",
+      "ADDRESS": "Address",
+      "ADDRESS_1": "Address 1",
+      "ADDRESS_2": "Address 2",
+      "CITY": "City",
+      "STATE": "State",
+      "COUNTRY": "Country",
+      "ZIP": "Zip",
+      "POST": "Post",
+      "PINCODE": "Pincode",
+      "VERIFIED": "Verified",
+      "TERMS": "I accept the terms and conditions",
+      "ALREADY_ACCOUNT": "Already have an account?",
+      "SIGNIN_HERE": "Signin here...",
+      "REGISTER_FOR": "Register for",
+      "RS":"Rs.",
+      "LOGIN_HERE": "Login here..",
+      "REMEMBER_ME": "Remember me",
+      "PASSWORD": "Password",
+      "CONFIRM_PASSWORD": "Confirm Password",
+      "MALE": "Male",
+      "FEMALE": "Female",
+      "OTHERS": "Others",
+      "INDIVIDUAL": "Individual",
+      "INSTITUTE": "Institute",
+      "AADHAAR": "Aadhaar",
+      "DRIVING": "Driving License",
+      "PAN_CARD": "PAN Card",
+      "PASSPORT": "Passport",
+      "VOTER_CARD": "Voter Card",
+      "DONATION_AMOUNT":"Donation Amount",
+      "CAUSE":"Cause",
+      "BENEFITS":"Benefits",
+      "WANT_BUILDING_NAME":"Do you want building to be in your name?"
+    },
+    "BUTTON": {
+      "SUBMIT": "Submit",
+      "BOOK_SEVA": "Book Seva",
+      "PAY_TO_HUNDI": "Pay to Hundi",
+      "SEARCH_AVAILABLE_DATE": "Search Available Dates",
+      "DONATE": "Donate",
+      "UPDATE": "Update",
+      "REGISTER": "Register",
+      "LOGIN": "Login",
+      "FORGOT_PASSWORD": "Forgot_Password",
+      "REGISTER_NOW":"Yes please, register now!"
+    }
+  }
+}
