@@ -1,0 +1,31 @@
+{
+    "dbConfig": {
+      "mongoUrl" :"mongodb://app-user:k342hkjbk432kdjhu@139.59.89.164:27017/DonateDb",
+      "host": "mongodb://139.59.89.164",
+      "port": 27017,
+      "username": "app-user",
+      "password": "k342hkjbk432kdjhu",
+      "dbName": "DonateDb"
+    },
+    "emailConfig": {
+      "transport": {
+        "host": "smtpout.asia.secureserver.net",
+        "port": "smtpout.asia.secureserver.net",
+        "secure": "smtpout.asia.secureserver.net",
+        "auth": {
+          "user": "info@kabbalamma.org",
+          "pass": "info123!"
+        }
+      },
+      "options": {
+        "from": "info@kabbalamma.org"
+      }
+    },
+    "smsConfig": {
+      "url": "http://bulksms.smsroot.com/app/smsapi/index.php",
+      "apiKey": "45B56DF8438A15",
+      "routeid": 13,
+      "senderid": "Darshanam OTP"
+    }
+  }
+  
